@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36405
     wikipedia: http://en.wikipedia.org/wiki/Lewis_R._Freeman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44632#Hell-s-Hatches
 gutenberg_issued: '2014-01-09'
 gutenberg_type: Text
 identifiers:
